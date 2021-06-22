@@ -1,0 +1,8 @@
+persist.vendor.radio.block_allow_data=0
+
+ro.edgeration.cpuinfo=835
+ro.edgeration.batteryinfo=3300 mAh
+ro.edgeration.camerainfo=12mp+960fps
+ro.edgeration.cellularinfo=LTE
+ro.edgeration.screeninfo=4k
+ro.edgeration.raminfo=LPDDR4X
